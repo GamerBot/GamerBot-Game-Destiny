@@ -28,3 +28,5 @@ hubot>> Events:
         CoE ... Challenge of Elder's
         KFHM ... King's Fall Hard Mode
 ```
+
+[![Build Status](https://travis-ci.org/GamerBot/GamerBot-Game-Destiny.svg?branch=master)](https://travis-ci.org/GamerBot/GamerBot-Game-Destiny)
