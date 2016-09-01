@@ -3,9 +3,9 @@ chai = require 'chai'
 
 expect = chai.expect
 
-helper = new Helper('../src/gamerbot-game-destiny.coffee')
+helper = new Helper('../src/GamerBot-Game-Destiny.coffee')
 
-describe 'gamerbot-game-destiny', ->
+describe 'GamerBot-Game-Destiny', ->
   beforeEach ->
     @room = helper.createRoom()
 

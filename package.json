@@ -1,5 +1,5 @@
 {
-  "name": "gamerbot-game-destiny",
+  "name": "GamerBot-Game-Destiny",
   "description": "A Destiny module for GamerBots",
   "version": "0.0.0",
   "author": "Shawn Sorichetti <>",
@@ -14,7 +14,7 @@
     "url": "https://github.com/hubot-scripts/hubot-gamerbot-game-destiny/issues"
   },
   "dependencies": {
-    "gamerbot-game": "git+https://git@github.com/ssoriche/GamerBot-Game.git"
+    "GamerBot-Game": "git+https://git@github.com/GamerBot/GamerBot-Game.git"
   },
   "peerDependencies": {
     "hubot": "2.x"
